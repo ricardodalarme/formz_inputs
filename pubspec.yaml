@@ -1,0 +1,18 @@
+name: formz_inputs
+description: A set of ready-to-use formz inputs to make your life easier!
+homepage: https://github.com/ricardodalarme/formz_inputs
+issue_tracker: https://github.com/ricardodalarme/formz_inputs/issues
+version: 1.0.0
+
+environment:
+  sdk: ">=2.12.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  formz: ^0.6.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.1

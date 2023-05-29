@@ -1,0 +1,24 @@
+name: flutter_firebase_login
+description: A new Flutter project.
+version: 1.0.0+1
+publish_to: none
+
+environment:
+  sdk: ">=2.19.0 <3.0.0"
+
+dependencies:
+  bloc: ^8.1.2
+  equatable: ^2.0.5
+  flow_builder: ^0.0.9
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.3
+  font_awesome_flutter: ^10.4.0
+  formz: ^0.6.0
+  formz_inputs:
+    path: ../
+  google_fonts: ^4.0.5
+  meta: ^1.9.1
+
+flutter:
+  uses-material-design: true
